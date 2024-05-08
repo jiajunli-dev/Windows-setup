@@ -1,2 +1,2 @@
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Unrestricted
-test
+testawdawd
