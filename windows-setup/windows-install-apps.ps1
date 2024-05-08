@@ -1,0 +1,2 @@
+# Install apps
+winget install -e --id Microsoft.DotNet.SDK.6;winget install -e --id Microsoft.DotNet.SDK.7;winget install -e --id Microsoft.DotNet.SDK.Preview;winget install -e --id Brave.Brave;winget install -e --id Git.Git;winget install -e --id Microsoft.WindowsTerminal;winget install -e --id Microsoft.VisualStudio.2022.Community.Preview;winget install -e --id Microsoft.VisualStudioCode
