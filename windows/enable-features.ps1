@@ -5,4 +5,4 @@ Enable-WindowsOptionalFeature -FeatureName VirtualMachinePlatform -All -Online
 Enable-WindowsOptionalFeature -FeatureName Microsoft-Windows-Subsystem-Linux -All -Online
 
 # Restart computer
-Restart-Computer -Force
+Restart-Computer
